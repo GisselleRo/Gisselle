@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBafn-eCgnMdaVDqp1z1CxufKG__SMO-LOGg48uFTm4s-QmBteFA)
+}
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;
+  color: #8bbab7;
+}
+h2{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  color: #143;
+}
+h3{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 35px;
+  color: #5e1960;
+}
+h4{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  color: #601948;
+}
+p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #601929;
+}
