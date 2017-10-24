@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn78DDMEC_UxHOdaQcDWnHgiQx5C8QeybVzp-YRhoUU3FC-rrVyQ);
+  font-family: 'Modak', cursive;
+  font-size: 40px;
+}
+#pink{
+  background: #ffdef2;
+  color: #ffdef2;
+}
+#purple{
+  background: #f2e2ff;
+  color: #f2e2ff;
+}
+#blue{
+  background: #e2eeff;
+  color: #e2eeff;
+}
+#green{
+  background: #ddfffc;
+  color: #ddfffc;
+}
+#yellow{
+  background: #ffffe3;
+  color: #ffffe3;
+}
+td{
+  width: 200px;
+  height: 400px;
+}

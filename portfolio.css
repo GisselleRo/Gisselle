@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAANlBMVEX/1eP/0+L/0uH/+/z/+Pr/4+z/6/L/2+f/8/f/8PX/9fj/3un/7vT/4Or/2eb/0OD/////5+/8yWnGAAADY0lEQVR4nO2d0U4qSRQAgeEKCIj3/3923ae10lC9XndC3FQ9dtlqKtP9dDKz2QxcL9tx8R+259PEH90f3G/eXtXvlp1uX9uTYqknxVIPtueL/vRHLPeHmT/6f/Pm/rbcdPua/tfAy+u49hX/e+b33/LX5fosv3kZOO3Htc9cJv67+y+L+4le0W+2A9fLblz8xMcxVH843dwf3b+5/7hTdPuK/s7B7IJXT4qlnhRLPSmWelIs9aRY6kmx1JNiqSfFUk+KpZ4USz0plnpSLPWkWOpJsdSTYqknxVJPiqWeFEs9KZZ6Uiz1pFjqSbHUk2KpJ8VST4qlnhRLPZnE2kxibSYxZrG2PyzWxJ/cn4/uZ0/WwWNtF9++pt8PLMu4Bv/ufj/ZP/WT3z/78+v5ceRod/aRo93BR46mfjZSNPG3xSeWVvR3nrUuePWkWOpJsdSTYqknxVJPiqWeFEs9KZZ6Uiz1pFjqSbHUk2KpJ8VST4qlnhRLPSmWelIs9aRY6kmx1JNiqSfFUk+KpZ4USz0plnpSLPWkWOpJsdSTYqkn35zPms5f/eBY46xIL+55pDbLf8/7qn7/vn+W3+wGzpdx7TOHk/u30839ceJf1d8W376iv3Mwu+DVk2KpJ8VST4qlnhRLPSmWelIs9aRY6kmx1JNiqSfFUk+KpZ4USz0plnpSLPWkWOpJsdSTYqknxVJPiqWeFEs9KZZ6Uiz1pFjqSbHUk2KpJ8VST4r12A08fTDE/TMHQ3T85s/4/44cjSNbDbM9UncO5pPHJH/aa+y64P81xVJPiqWeFEs9KZZ6Uiz1pFjqSbHUk2KpJ8VST4qlnhRLPSmWelIs9aRY6kmx1JNiqSfFUk+KpZ4USz0plnpSLPWkWOpJsdSTYqknxVJPiqWeFOuhG6dI+rDaI9Un+77g7zxrfQxSPekzo+pJF7x6Uiz1pFjqSbHUk2KpJ8VST4qlnhRLPSmWelIs9aRY6kmx1JNiqSfFUk+KpZ4USz0plnpSLPWkWOpJsdSTYqknxVJPiqWeFEs9KZZ6Uiz1pFgP3ThY04t7HqnNy8BpP6595jLx391/WdxP9Ip+82vg5XVc+4r/PfP7b/nrcn2Wv3Muzxc91H8fQ/WHmT/6pfHm/rbcdPvannTBqyfFUk+K9Uj9BQMQkTh+MwRPAAAAAElFTkSuQmCC)
+  }
+h1{
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 90px;
+  color: #e591ff;
+}
+a{
+  font-size: 20px;
+  border-style: groove;
+  font-family: 'Sue Ellen Francisco', cursive;
+}
+h2{
+  font-family: 'The Girl Next Door', cursive;
+  color: #f291ff;
+}
